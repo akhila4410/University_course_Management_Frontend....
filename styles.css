@@ -1,6 +1,9 @@
 body {
+    background-image: url('https://www.depts.ttu.edu/admissions/apply/status/first_freshmen/entrance.png');
+    background-size: 3000px;
+    background-position: center;
+    background-repeat: no-repeat;
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     padding: 20px;
 }
 
