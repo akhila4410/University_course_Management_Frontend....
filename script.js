@@ -1,4 +1,5 @@
-const apiUrl = "https://universityproject-6895f270ba97.herokuapp.com"; // Update this if your backend URL is different
+// const apiUrl = "https://universityproject-6895f270ba97.herokuapp.com"; // Update this if your backend URL is different
+const apiUrl = "http://0.0.0.0:8000"
 let token = '';
 
 document.getElementById('login-form').addEventListener('submit', async (e) => {
